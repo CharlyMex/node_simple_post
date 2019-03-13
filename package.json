@@ -1,0 +1,13 @@
+{
+  "name": "simple-node-post",
+  "version": "1.0.0",
+  "description": "Simple node post.",
+  "main": "server.js",
+  "author": "Carlos Reynoso caprogram.osx@gmail.com",
+  "dependencies": {
+    "body-parser": "~1.5.2",
+    "express": "~4.7.2",
+    "method-override": "~2.1.2",
+    "morgan": "^1.9.1"
+  }
+}

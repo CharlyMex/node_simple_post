@@ -1,0 +1,17 @@
+
+  body {
+    background: url('img/bkg.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+  }
+.simpleForm {
+    margin-top: 10%
+}
+.space{
+    max-height: 35px;
+    min-width: 300px;
+}
+
+
